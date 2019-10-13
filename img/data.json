@@ -1,0 +1,41 @@
+{
+    "domains":[{"name":"Machine Learning"},{"name":"cognitive science"},{"name":"IOT"},{"name":"Web Technology"},{"name":"Information Security"},{"name":"Cloud Computing"},{"name":"ALL"}],
+	"problem": [
+		{
+			"name": "#THC01",
+			"desc": "Create AI chat bot that automates human overheads in labour management system for government of India 2019.",
+			"tag":"Machine Learning",
+			"longd":"Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no to let the browser pick a similar font in the generic family, if no other fonts are available. "
+		},
+		{
+			"name": "#THC02",
+			"tag":"Machine Learning",
+			"desc": "Create AI chat bot that automates human overheads in labour management system for Tamil Nadu",
+			"longd":"Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available. "
+		},
+		{
+			"name": "#THC03",
+			"tag":"IOT",
+			"desc": "Create AI chat bot that automates human overheads in labour management system for Tamil Nadu",
+			"longd":"Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available. "
+		},
+		{
+			"name": "#THC04",
+			"tag":"IOT",
+			"desc": "Create AI chat bot that automates human overheads in labour management system for government",
+			"longd":"Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available. "
+		},
+		{
+			"name": "#THC05",
+			"tag":"Information Security",
+			"desc": "Create AI chat bot that automates human overheads in labour management system for Tamil Nadu",
+			"longd":"Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available. "
+		},
+		{
+			"name": "#THC06",
+			"tag":"Information Security",
+			"desc": "Create AI chat bot that automates human overheads in labour management system for Tamil Nadu",
+			"longd":"Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available. "
+		}
+	]
+}

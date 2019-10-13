@@ -1,0 +1,218 @@
+{
+	"domains": [{
+		"name": "Machine Learning"
+	},
+	{
+		"name": "IOT"
+	}, {
+		"name": "Web Technology"
+	}, {
+		"name": "Information Security"
+	}, {
+		"name": "Cloud Computing"
+	}, 
+	{
+		"name": "Android"
+	}, 
+	{
+		"name": "ALL"
+	}
+	],
+	"problem": [{
+			"name": "#THC01",
+			"desc": "Travel Recommendation System",
+			"tag": "Machine Learning, Web Technology",
+			"sector": "Tourism",
+			"longd": "A System which suggests best travel destinations based on user’s preferences."
+		},
+		{
+			"name": "#THC02",
+			"tag": "Machine Learning, Web Technology, Android",
+			"desc": "Travel Guide Chat Bot",
+			"sector": "Tourism",
+			"longd": "An  automated mobile/web chat bot that directly interacts with the user and guides them when they are in the tourist spot regarding ticket counters, hotels etc.,"
+		},
+		{
+			"name": "#THC03",
+			"tag": "Web Technology, Android, Cloud Computing",
+			"desc": "Guide for museums and monuments",
+			"sector": "Tourism",
+			"longd": "A mobile / web application that detects the objects in the monuments and display the required details about them ( both textual and audio ). "
+		},
+		{
+			"name": "#THC04",
+			"tag": "Web Technology, Cloud Computing",
+			"desc": "On - Screen Marking System",
+			"sector": "Education",
+			"longd": "A web application that facilitates the portability, evaluation of answer scripts and publication of results digitally. "
+		},
+		{
+			"name": "#THC05",
+			"tag": "Web Technology, Android",
+			"desc": "Learning Aid for Differently abled people",
+			"sector": "Education",
+			"longd": "A Mobile / Web application that enables the visually challenged / people with hearing disabilities use the digitalized resources for knowledge enhancement. "
+		},
+		{
+			"name": "#THC06",
+			"tag": "NLP,Machine Learning, Web Technology",
+			"desc": "Evaluation of Descriptive Answers",
+			"sector": "Education",
+			"longd": "An application that evaluates descriptive answers using NLP techniques and provide scores based on the correct answers and relative scores fed by the user. "
+		},
+		{
+			"name": "#THC07",
+			"tag": "NLP,Machine Learning,Web Technology",
+			"desc": "Resume Classifier System",
+			"sector": "Education",
+			"longd": "An application that classifies the resumes to be suitable / unsuitable based the user mentioned attributes."
+		},
+		{
+			"name": "#THC08",
+			"tag": "Image Processing,Machine Learning, Web, Android",
+			"desc": "Crop Disease Detection",
+			"sector": "Agriculture",
+			"longd": "A Web / Android application that detects the crop disease by image processing."
+		},
+		{
+			"name": "#THC09",
+			"tag": "NLP, AI, Web Technology",
+			"desc": "A Farmer - Consumer portal",
+			"sector": "Education",
+			"longd": "A Web / Android application that uses Demand and Supply Chain analysis and connects the appropriate consumers and farmers directly eliminating the middle brokers."
+		},
+		{
+			"name": "#THC10",
+			"tag": "Information Security, Cloud Computing",
+			"desc": "End to End Encryption of Medical Data",
+			"sector": "Health",
+			"longd": "Identify / Develop suitable cryptographic techniques and algorithms for medical data encryption and apply the same in a cloud storage space."
+		},
+		{
+			"name": "#THC11",
+			"tag": "IoT,Machine Learning, Web Technology ,Android",
+			"desc": "Personal Health Assistant",
+			"sector": "Health",
+			"longd": "An application that suggests relaible health advices ( not medical advice ) based on users Requirements and personal data.(IoT Technology can be used)."
+		},
+		{
+			"name": "#THC12",
+			"tag": "IoT",
+			"desc": "Disaster Management",
+			"sector": "Smart City",
+			"longd": "Develop an efficient disaster management that prevents life and property damage in the event of any type of disasters (Say Flood, Drought, Earthquake etc.,)"
+		},
+		{
+			"name": "#THC13",
+			"tag": "IoT",
+			"desc": "Forest Animal Detection",
+			"sector": "Societal",
+			"longd": "Use appropriate technology to identify the movements of animals in the forests."
+		},
+		{
+			"name": "#THC14",
+			"tag": "Web Technology, Cloud Computing",
+			"desc": "Placement aid",
+			"sector": "Education",
+			"longd": "Make a web based application that is able to conduct online examination that actualy record the candidate's performance and make a leaderboard. Prepare to arrest the network to avoid cheating!!"
+		},
+		{
+			"name": "#THC15",
+			"tag": "IOT,Android",
+			"desc": "Purify monitor",
+			"sector": "Societal",
+			"longd": "Sewage with domestic water... OMG!! Make a solution to stop this...Alert the cooperation before a protest"
+		},
+		{
+			"name": "#THC16",
+			"tag": "IOT,Web Technology",
+			"desc": "Nightmare at hospital",
+			"sector": "",
+			"longd": "Sleepy nurse... Get her an aid to monitor the patients.. In all aspects"
+		},
+		{
+			"name": "#THC17",
+			"tag": "Web Technology, Cloud Computing",
+			"desc": "Bridge the gap",
+			"sector": "",
+			"longd": "Start-up start-up start-up... give those start-up a platform to rule this world via internet... Avail the template.. Make them a website... Charge for your work"
+		},
+		{
+			"name": "#THC18",
+			"tag": "Android",
+			"desc": "Appetite Checker",
+			"sector": "",
+			"longd": "Monitor a person's eating speed.. Analyse his eating speed... Monitor his hunger... A way to monitor stress."
+		},
+		{
+			"name": "#THC19",
+			"tag": "Android",
+			"desc": "Women help-line",
+			"sector": "",
+			"longd": "Make a AI to talk with women via help-line ... Understand her mood.. She could even raise complaint or ask some medical advices...."
+		},
+		{
+			"name": "#THC20",
+			"tag": "Machine Learning",
+			"desc": "Choose the best",
+			"sector": "",
+			"longd": "Help the bidders to select the best player for IPL... Analyse his record.. Don't forget .. He has to play in Indian conditions..."
+		},
+		{
+			"name": "#THC21",
+			"tag": "Information Security",
+			"desc": "Linux Installer",
+			"sector": "",
+			"longd": "Commands... Lots of commands... Create a desktop application that will do the commanding part :) Let me select my configuration only..."
+		},
+		{
+			"name": "#THC22",
+			"tag": "Web Technology",
+			"desc": "Onroad services",
+			"sector": "",
+			"longd": "Riders can't get to mechanics... Make a forum to meet.. Don't make them to oush the vehicles.."
+		},
+		{
+			"name": "#THC23",
+			"tag": "Android",
+			"desc": "Cabbie at any time",
+			"sector": "",
+			"longd": "Have a car but don't have drivers at time of need :("
+		},
+		{
+			"name": "#THC24",
+			"tag": "Web Technology, Machine Learning, NLP",
+			"desc": "AI powered Website Builder",
+			"sector": "",
+			"longd": "Build an AI powered website builder like wordpress, Wix, Yet with AI. Build a CMS System that acts as a website builder which suggests the user designs and auto content fill when the user designs the website."
+		},
+		{
+			"name": "#THC25",
+			"tag": "Android",
+			"desc": "App to digitize your paper bills",
+			"sector": "",
+			"longd": "Mobile App to convert daily paper bills to excel sheets...Example usecase: Convert front page of CAT sheet to excel format.."
+		},
+		{
+			"name": "#THC26",
+			"tag": "NLP, Machine Learning",
+			"desc": "Facebook Messenger Chat Bot",
+			"sector": "",
+			"longd": "Facebook messenger chat bot that does small talk (NLP) and sends news tailored for you.."
+		},
+		{
+			"name": "#THC27",
+			"tag": "Cloud computing",
+			"desc": "Database Adapter",
+			"sector": "",
+			"longd": "Design a simple database adapter (that supports at least 3 DBMS or NoSQL) powered by your preferred language. Build a Java/Preferred Language API that connects an application to a variety of databases by using the common wrapper queries (same for all Databases) that you designed for the API."
+		},
+		{
+			"name": "#THC29",
+			"tag": "IoT, Android",
+			"desc": "Missing my keys",
+			"sector": "",
+			"longd": "I keep forgetting my keys regularly:( Can technology help me out !!?"
+		}
+	]
+}
